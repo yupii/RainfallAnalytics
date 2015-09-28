@@ -1,0 +1,56 @@
+============================================================================================
+                    State Name                                  Rainfall (inches)
+============================================================================================
+Unknown                                                                              54.34
+Alaska                                                                              134.25
+Alabama                                                                             200.73
+Arkansas                                                                            283.69
+Arizona                                                                              21.11
+California                                                                           62.72
+Colorado                                                                            198.01
+Connecticut                                                                          13.72
+District of Columbia                                                                  4.62
+Delaware                                                                              4.75
+Florida                                                                             191.75
+Georgia                                                                              61.89
+Hawaii                                                                               16.03
+Iowa                                                                                229.97
+Idaho                                                                                46.56
+Illinois                                                                            228.88
+Indiana                                                                              75.00
+Kansas                                                                              271.06
+Kentucky                                                                             91.76
+Louisiana                                                                           245.76
+Massachusetts                                                                        23.58
+Maryland                                                                             22.27
+Maine                                                                                43.41
+Michigan                                                                            165.49
+Minnesota                                                                           347.72
+Missouri                                                                            198.74
+Mississippi                                                                         114.50
+Montana                                                                              53.50
+North Carolina                                                                      134.04
+North Dakota                                                                        148.17
+Nebraska                                                                            230.03
+New Hampshire                                                                        20.02
+New Jersey                                                                           18.23
+New Mexico                                                                           74.84
+Nevada                                                                               24.29
+New York                                                                             90.15
+Ohio                                                                                117.94
+Oklahoma                                                                            551.29
+Oregon                                                                               43.75
+Pennsylvania                                                                         69.17
+Rhode Island                                                                          7.03
+South Carolina                                                                       52.64
+South Dakota                                                                        142.93
+Tennessee                                                                            32.30
+Texas                                                                              1330.98
+Utah                                                                                 36.77
+Virginia                                                                             90.62
+Vermont                                                                              21.48
+Washington                                                                           31.67
+Wisconsin                                                                           210.48
+West Virginia                                                                        23.84
+Wyoming                                                                             107.92
+============================================================================================
