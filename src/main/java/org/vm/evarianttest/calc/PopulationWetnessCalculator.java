@@ -134,6 +134,7 @@ public class PopulationWetnessCalculator implements Calculator{
             throw new RuntimeException("Error occurred while processing " + getAbsFilePath().toASCIIString(), ex);
         }
         computeWetness(result);
+        result = Util.sortByValue(result);
         return result;
     }
 
