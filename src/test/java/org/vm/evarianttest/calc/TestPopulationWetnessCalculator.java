@@ -1,3 +1,5 @@
+package org.vm.evarianttest.calc;
+
 import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
